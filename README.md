@@ -15,4 +15,4 @@
 Qualquer dúvida entre em contato
 <a href="mailto:diogo.tomaz.rezende@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![](https://media1.tenor.com/m/_u5iy8dCldoAAAAd/mc-kevin-lc.gif)
+![](https://media1.tenor.com/m/otBo0HLXnz0AAAAd/mc-kevin-responda.gif)
