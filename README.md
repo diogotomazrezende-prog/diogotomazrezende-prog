@@ -15,5 +15,4 @@
 Qualquer dúvida entre em contato
 <a href="mailto:XXXXXXX@escola.pr.gov.br" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
 
-![](<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/b7f79379-11cc-4af4-8e8b-d4c658907f02" />
-)
+![](https://media1.tenor.com/m/tSefCnzAqvMAAAAd/mata.gif)
